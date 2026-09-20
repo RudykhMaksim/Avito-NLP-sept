@@ -1,0 +1,13 @@
+# Python 3.13 (проверено на 3.13.6, Windows 10, CPU, 6 потоков, 16 ГБ ОЗУ)
+numpy==2.3.2
+pandas==2.3.1
+pyarrow==21.0.0
+scipy==1.16.1
+scikit-learn==1.7.1
+torch==2.8.0
+lightgbm==4.6.0
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+sentence-transformers==5.1.0
+transformers==4.55.2
+huggingface-hub==0.34.4
